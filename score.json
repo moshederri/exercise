@@ -1,0 +1,57 @@
+{
+  "scores": [
+    {
+      "merchant_id": 100,
+      "review_id": 199131,
+      "review_score": 5,
+      "review_date": "2023-25-08 23:50:55"
+    },
+    {
+      "merchant_id": 100,
+      "review_id": 0,
+      "review_score": 10,
+      "review_date": "2023-24-08 23:50:55"
+    },
+    {
+      "merchant_id": 200,
+      "review_id": 44223,
+      "review_score": 1,
+      "review_date": "2023-25-08 00:00:00"
+    },
+    {
+      "merchant_id": 200,
+      "review_id": 22331,
+      "review_score": 6,
+      "review_date": "2023-25-08 00:20:00"
+    },
+    {
+      "merchant_id": 200,
+      "review_id": 4222,
+      "review_score": 2,
+      "review_date": "2023-25-08 20:20:00"
+    },
+    {
+      "merchant_id": 200,
+      "review_id": 144223,
+      "review_score": 5,
+      "review_date": "2023-25-08 21:20:00"
+    },
+    {
+      "merchant_id": 100,
+      "review_id": 199131,
+      "review_score": 5,
+      "review_date": "2023-25-08 23:50:55"
+    },
+    {
+      "merchant_id": 101,
+      "review_id": 144223,
+      "review_score": 5,
+      "review_date": "2023-25-08 23:50:55"
+    },
+    {
+      "merchant_id": 101,
+      "review_score": 5,
+      "review_date": "2023-25-08 23:50:55"
+    }
+  ]
+}
